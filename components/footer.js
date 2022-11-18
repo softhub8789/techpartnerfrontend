@@ -43,7 +43,7 @@ export default function Footer(){
                         Terms & Conditions
                     </Link>
                 </p>
-                <p>Copyright © 2000-2022 Tech Pertner Inc. All Rights Reserved.</p>
+                <p>Copyright © 2021-22 Tech Pertner Inc. All Rights Reserved.</p>
             </div>
         </footer>
     )
